@@ -27,3 +27,9 @@ The goal of this task is to:
 
 
 For this project, I chose a Word Frequency Counter application. The program reads a text file (sample.txt), counts the occurrences of each word, and prints the results. This task was a perfect opportun…
+
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/204982f8-742f-433d-b6ae-9e301248c8f9)
+
+![Image](https://github.com/user-attachments/assets/e2f4f6d6-7a98-4212-9dac-022760f8dba2)
